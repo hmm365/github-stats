@@ -1,5 +1,7 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 ![](https://raw.githubusercontent.com/hmm365/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/devpla/github-stats/master/generated/languages.svg)
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
