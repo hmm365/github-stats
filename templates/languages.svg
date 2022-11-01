@@ -30,8 +30,8 @@ h2 {
   margin-top: 0;
   margin-bottom: 0.75em;
   line-height: 24px;
-  font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif;
- color: #918FE0;
+  font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+  color: #918FE0;
   fill: #918FE0; 
 }
 
@@ -49,8 +49,10 @@ ul {
 
 li {
   display: inline-flex;
-  font-size: 12px;
+  font-size: 13.5px;
   margin-right: 2ch;
+  letter-spacing: -0.03rem;
+  margin-bottom: 10px;
   align-items: center;
   flex-wrap: nowrap;
   transform: translateX(-500%);
